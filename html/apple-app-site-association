@@ -1,0 +1,11 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2N9X6G545B.com.picc.bbrapp",
+                "paths": ["*","/Doc/*","/Doc/html/*"]
+            }
+        ]
+    }
+}
